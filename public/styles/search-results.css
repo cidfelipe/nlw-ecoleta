@@ -2,10 +2,10 @@ body {
     background-color: white;
 }
 
-#body ::after {
+body::after {
     content: "";
     position: absolute;
-    background: #6c6c80;
+    background: #e5e5e5;
     top: 0;
     right: 0;
     left: 0;
