@@ -50,6 +50,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
     By Cid Felipe <a href="https://www.linkedin.com/in/cidfelipe/" target="_blank">Cid Felipe on Linkedin</a>
     Follow me on Twitter <a href="https://twitter.com/cid_felipe/" target="_blank">Cid Felipe on Twitter</a>
 </h4>
-=======
-</h4>
 
