@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 # nlw-ecoleta
 Repositório criado no projeto Next Level Week da Rocketseat #javascript #css #html #node
 
->>>>>>> 31127730e595f75ac981691f2e2fdb352af8fe53
 <h3 align="center">
     <img width="300px" src="https://i.imgur.com/thB3TEi.png">
     <br><br>
@@ -52,8 +49,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <h4 align="center">
     By Cid Felipe <a href="https://www.linkedin.com/in/cidfelipe/" target="_blank">Cid Felipe on Linkedin</a>
     Follow me on Twitter <a href="https://twitter.com/cid_felipe/" target="_blank">Cid Felipe on Twitter</a>
-<<<<<<< HEAD
 </h4>
 =======
 </h4>
->>>>>>> 31127730e595f75ac981691f2e2fdb352af8fe53
+
